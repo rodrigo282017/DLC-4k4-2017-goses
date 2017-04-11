@@ -1,7 +1,7 @@
 # DLC-4k4-2017-goses
 Engine searches - text document Relevant
 Universidad Tecnológica Nacional - Facultad Regional de Cordoba
-#Practical work Unique [Search Engine - Vector Model]
+Practical work Unique [Search Engine - Vector Model]
 
 Phrasing and Slogans:
 
